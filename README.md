@@ -14,7 +14,7 @@
 <a href="https://github.com/weezqyd">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=weezqyd&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/meta">
+<a href="https://github.com/weezqyd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weezqyd&layout=compact" />
 </a>
 
